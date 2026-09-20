@@ -1,0 +1,20 @@
+{
+  "name": "m_npm",
+  "version": "1.0.0",
+  "description": "Master npm ",
+  "homepage": "https://github.com/Pushpender-16/npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/Pushpender-16/npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushpender-16/npm-package.git"
+  },
+  "license": "ISC",
+  "author": "Pushpender Shekhawat",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
