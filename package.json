@@ -12,8 +12,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Pushpender-16/npm-package/issues"
   },
