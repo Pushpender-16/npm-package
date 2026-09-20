@@ -1,20 +1,21 @@
 {
-  "name": "bgcolor-changenpm",
+  "name": "bgcolorchangenpm16",
   "version": "1.0.0",
-  "description": "Master npm ",
-  "homepage": "https://github.com/Pushpender-16/npm-package#readme",
-  "bugs": {
-    "url": "https://github.com/Pushpender-16/npm-package/issues"
+  "description": "background color changing btn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Pushpender-16/npm-package.git"
   },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "author": "Pushpender Shekhawat",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pushpender-16/npm-package/issues"
+  },
+  "homepage": "https://github.com/Pushpender-16/npm-package#readme"
 }
